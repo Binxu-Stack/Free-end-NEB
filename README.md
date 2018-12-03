@@ -1,4 +1,4 @@
 # Free-end-NEB
 Codes to use free-end NEB (Nudged Elastic Bands) in LAMMPS
 
-TODO: add guide to the codes.
+*NOTE*: One should refer to LAMMPS NEB, as it has already the feature of free-end NEB.
